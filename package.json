@@ -4,7 +4,8 @@
   "description": "## Description This is a RESTful API for a social network web application built with Express.js, MongoDB, and Mongoose. It allows users to: - Share thoughts - React to friends' thoughts - Manage a friend list",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",

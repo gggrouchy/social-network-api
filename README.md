@@ -8,6 +8,7 @@ This is a RESTful API for a social network web application built with Express.js
 
 ## Installation
 Clone the repository: git clone <repository-url>
+Run npm init -y to run dependencies. 
 
 
 ## License
